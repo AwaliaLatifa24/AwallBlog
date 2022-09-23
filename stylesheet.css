@@ -43,12 +43,7 @@ li {
   padding-top: 100px;
 }
 
-.footer-logo {
-  float: left;
-  font-size: 30px;
-  padding-top: 20px;
-  padding-bottom: 30px;
-}
 .footer-list li {
   float: right;
+  padding: 10px 5px;
 }
