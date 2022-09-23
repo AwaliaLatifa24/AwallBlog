@@ -39,7 +39,7 @@ li {
 .footer {
   background-color: #cc99ff;
   color: #fff;
-  height: 60px;
+  height: 90px;
 }
 
 .footer-logo {
@@ -48,5 +48,5 @@ li {
 }
 .footer-list li {
   float: right;
-  padding: 20px 10px;
+  padding: 30px 20px;
 }
