@@ -11,18 +11,18 @@ li {
   height: 90px;
 }
 .header-logo {
-  float: right;
+  float: left;
   font-size: 30px;
   padding: 20px 30px;
 }
 
 .header-list li {
-  float: left;
+  float: right;
   padding: 30px 20px;
 }
 
 .main {
-  padding: 80px 60px;
+  padding: 80px 100px;
 }
 
 .copy-container h1 {
@@ -43,10 +43,10 @@ li {
 }
 
 .footer-logo {
-  float: right;
+  float: left;
   font-size: 30px;
 }
 .footer-list li {
-  float: left;
-  padding: 30px 20px;
+  float: right;
+  padding: 20px 10px;
 }
