@@ -23,6 +23,8 @@ li {
 
 .main {
   padding: 80px 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .copy-container h1 {
@@ -39,8 +41,8 @@ li {
 .footer {
   background-color: #cc99ff;
   color: #fff;
-  height: 90px;
-  padding-top: 100px;
+  height: 40px;
+  padding-top: 20px;
 }
 
 .footer-list li {
