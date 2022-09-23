@@ -40,11 +40,13 @@ li {
   background-color: #cc99ff;
   color: #fff;
   height: 90px;
+  padding: 40px;
 }
 
 .footer-logo {
   float: left;
   font-size: 30px;
+  padding: 20px 40px;
 }
 .footer-list li {
   float: right;
