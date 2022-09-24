@@ -37,6 +37,8 @@ li {
 .contents-item p {
   font-size: 15px;
   margin-top: 25px;
+  padding top: 50px;
+  padding-bottom: 100px;
 }
 .footer {
   background-color: #cc99ff;
@@ -48,4 +50,5 @@ li {
 .footer-list li {
   float: right;
   padding: 10px 5px;
+  padding-bottom: 20px;
 }
