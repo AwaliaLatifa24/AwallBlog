@@ -4,10 +4,6 @@ body {
   font-size: 30px;
 }
 
-li {
-  list-style: none;
-}
-
 header {
   background-color: #cc99ff;
   color: #ffffff;
