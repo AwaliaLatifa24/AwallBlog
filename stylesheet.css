@@ -5,7 +5,8 @@ body {
 }
 
 li {
-   float: right;
+  list-style: none;
+  float: right;
   padding: 30px 20px;
 }
 
