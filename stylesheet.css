@@ -2,23 +2,24 @@
 body {
   font-family: "Monaco";
   font-size: 30px;
+  font-color: #000000;
 }
 
 li {
   list-style: none;
   float: right;
-  padding: 30px 20px;
+  padding: 30px 30px;
 }
 
 .header {
   background-color: #e6ccff;
-  font-color: #ffffff;
+  font-color: #ffff00;
   height: 80px;
 }
 
 .header-logo {
   float: left;
-  font-size: 15px;
+  font-size: 20px;
   padding-top: 20px;
 }
 
@@ -29,8 +30,9 @@ li {
 }
 
 .footer {
- background-color: #e6ccff;
- font-color: #ffffff;
- height: 100px;
+  background-color: #e6ccff;
+  font-color: #ffff00;
+  font-size: 20px;
+  height: 90px;
 }
 </style>
