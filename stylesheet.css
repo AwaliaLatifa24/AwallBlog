@@ -12,7 +12,7 @@ li {
 
 .header {
   background-color: #e6ccff;
-  color: #ffffff;
+  font-color: #ffffff;
   height: 80px;
 }
 
@@ -30,7 +30,7 @@ li {
 
 .footer {
  background-color: #e6ccff;
- color: #fff;
+ font-color: #ffffff;
  height: 100px;
 }
 </style>
