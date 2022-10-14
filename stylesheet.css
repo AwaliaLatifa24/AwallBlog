@@ -20,13 +20,11 @@ li {
 .header-logo {
   float: left;
   font-size: 20px;
-  padding-right: 10px;
   padding-top: 20px;
 }
 
 .lesson-wrapper {
   padding: 80px 100px;
-  padding-top: 100px;
   padding-bottom: 200px;
 }
 
@@ -34,6 +32,6 @@ li {
   background-color: #e6ccff;
   font-color: #ffff00;
   font-size: 20px;
-  height: 90px;
+  height: 100px;
 }
 </style>
