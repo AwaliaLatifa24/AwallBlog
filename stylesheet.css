@@ -14,13 +14,12 @@ li {
 .header {
   background-color: #e6ccff;
   font-color: #ffff00;
-  height: 80px;
 }
 
 .header-logo img {
   float: left;
-  height: 100px;
-  widht: 100px;
+  height: 150px;
+  widht: 150px;
 }
 
 .lesson-wrapper {
@@ -36,6 +35,5 @@ table, th, td {
   background-color: #e6ccff;
   font-color: #ffff00;
   font-size: 20px;
-  height: 100px;
 }
 </style>
