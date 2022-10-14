@@ -28,6 +28,10 @@ li {
   padding-bottom: 200px;
 }
 
+table, th, td {
+  border: 1px solid #e6ccff;
+}
+
 .footer {
   background-color: #e6ccff;
   font-color: #ffff00;
